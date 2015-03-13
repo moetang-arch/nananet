@@ -1,2 +1,2 @@
-# nananet
+# NanaNet
 NanaNet
